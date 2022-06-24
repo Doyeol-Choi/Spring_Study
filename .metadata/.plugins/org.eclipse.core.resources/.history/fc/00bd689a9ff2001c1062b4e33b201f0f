@@ -1,0 +1,9 @@
+package spring.main;
+
+public class MainForSpring01 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
