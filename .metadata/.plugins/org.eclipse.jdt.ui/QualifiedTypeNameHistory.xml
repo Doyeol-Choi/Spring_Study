@@ -6,8 +6,14 @@
     <fullyQualifiedTypeName name="spring.exception.MemberNotFoundException"/>
     <fullyQualifiedTypeName name="spring.service.ChangePasswordService"/>
     <fullyQualifiedTypeName name="spring.vo.Member"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="spring.vo.RegisterRequest"/>
     <fullyQualifiedTypeName name="spring.service.MemberRegisterService"/>
     <fullyQualifiedTypeName name="spring.printer.MemberInfoPrinter"/>
-    <fullyQualifiedTypeName name="spring.vo.RegisterRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ImportResource"/>
+    <fullyQualifiedTypeName name="spring.bean.Client2"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+    <fullyQualifiedTypeName name="spring.config.JavaConfig"/>
 </qualifiedTypeNameHistroy>
