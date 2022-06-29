@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+	<aop:aspectj-autoproxy />
+	
+	<!-- 공통의 기능을 제공한 객체를 빈으로 등록 -->
+	<bean class="spring.aspect.ExeTimeAspect03" id="exeTimeAspect"/>
+	<bean class="spring.aspect.CacheAspect02" id="cacheAspect"/>
+	
+	<!-- 사용할 핵심 기능을 가진 객체를 빈으로 등록 -->
+	<bean class="spring.calc.ImpeCalculator" id="impeCalc"/>
+	<bean class="spring.calc.RecCalculator" id="recCalc"/>
+</beans>

@@ -19,7 +19,7 @@
 		</aop:aspect>
 	</aop:config>
 	
-	<!-- 사용할 객체를 빈으로 등록 -->
+	<!-- 사용할 핵심 기능을 가진 객체를 빈으로 등록 -->
 	<bean class="spring.calc.ImpeCalculator" id="impeCalc"/>
 	<bean class="spring.calc.RecCalculator" id="recCalc"/>
 </beans>

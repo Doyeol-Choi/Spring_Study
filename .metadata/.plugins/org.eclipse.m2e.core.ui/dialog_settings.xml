@@ -51,6 +51,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ex07"/>
 			<item value="ex06"/>
 			<item value="ex05"/>
 			<item value="ex04"/>
