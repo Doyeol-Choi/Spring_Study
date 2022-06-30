@@ -2,13 +2,10 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="spring.exception.IdPasswordNotMatchingException"/>
     <fullyQualifiedTypeName name="spring.exception.AlreadyExistingMemberException"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="spring.exception.MemberNotFoundException"/>
     <fullyQualifiedTypeName name="spring.service.ChangePasswordService"/>
-    <fullyQualifiedTypeName name="spring.vo.Member"/>
     <fullyQualifiedTypeName name="spring.vo.RegisterRequest"/>
     <fullyQualifiedTypeName name="spring.service.MemberRegisterService"/>
-    <fullyQualifiedTypeName name="spring.printer.MemberInfoPrinter"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ImportResource"/>
     <fullyQualifiedTypeName name="spring.bean.Client2"/>
@@ -23,7 +20,22 @@
     <fullyQualifiedTypeName name="java.security.Signature"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.Signature"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
     <fullyQualifiedTypeName name="spring.calc.Calculator"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="spring.vo.Member"/>
+    <fullyQualifiedTypeName name="spring.mapper.MapperSqlToMember"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+    <fullyQualifiedTypeName name="java.sql.Timestamp"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.PreparedStatementCreator"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.support.GeneratedKeyHolder"/>
+    <fullyQualifiedTypeName name="spring.printer.MemberListPrinter"/>
+    <fullyQualifiedTypeName name="spring.printer.MemberInfoPrinter"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="spring.dao.MemberDao"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
 </qualifiedTypeNameHistroy>
